@@ -506,7 +506,7 @@ A
 115  39.11971758 -123.19994869
 120 Linear Feature 4
 111  39.12346979 -123.20093980 4
-115  39.12341934 -123.20109250
+115  39.12341934 -123.20109251
 120 Linear Feature 3
 111  39.12806368 -123.20214319 4
 115  39.12793351 -123.20211108
@@ -520,7 +520,7 @@ A
 1301 C general_aviation 
 1300  39.12473680 -123.20198131  80.17 tie_down jets|turboprops|props|helos|fighters Large FBO
 1301 B general_aviation 
-1300  39.12522167 -123.20272296 259.38 tie_down turboprops|props Behind Apron
+1300  39.12522167 -123.20272295 259.38 tie_down turboprops|props Behind Apron
 1301 A none 
 1300  39.13097856 -123.20360434  76.91 tie_down turboprops|props Fedex
 1301 A general_aviation 
@@ -534,11 +534,565 @@ A
 1301 A general_aviation 
 1300  39.12509881 -123.20190112  77.69 tie_down turboprops|props Apron 1
 1301 A general_aviation 
-1300  39.12615093 -123.20387570   0.00 tie_down props Row Hangars
+1300  39.12615093 -123.20387571   0.00 tie_down props Row Hangars
 1301 A none 
 18  39.12436188 -123.20197425 1 BCN
 19  39.12823775 -123.20035328 1 New Windsock 1
 19  39.12004245 -123.19887729 1 WS
 50 11927 ASOS
-51 12300 CTAF/UNICOM
+54 12300 CTAF/UNICOM
+1000 Runway 15 Noise Abatement
+1001 KUKI 210 030 10
+1002 KUK 0
+1003 KUK 0.0
+1101 15 left
+1100 15  13300 arrivals|departures heavy|jets|turboprops|props|helos|fighters 000000 000000 Use 15
+1000 Runway 33
+1001 KUKI 210 030 999
+1002 KUKI 0
+1003 KUKI 0.0
+1101 15 right
+1100 33  13300 arrivals|departures heavy|jets|turboprops|props|helos|fighters 000000 010050 Use 33
+1000 Runway 15 Flow
+1002 KUKI 0
+1003 KUKI 0.0
+1101 15 left
+1100 15  13300 arrivals|departures heavy|jets|turboprops|props|helos|fighters 000000 000000 Use 15
+1200 
+1201  39.12034826 -123.19937151 both 0 N_stop
+1201  39.12226944 -123.19987929 both 1 N_stop
+1201  39.12325620 -123.20014167 both 2 N_stop
+1201  39.12318603 -123.20012422 both 3 unnamed entity(split)
+1201  39.12309168 -123.20009652 both 4 unnamed entity(split)
+1201  39.12247128 -123.19993322 both 5 unnamed entity(split)
+1201  39.12244939 -123.19992632 both 6 unnamed entity(split)
+1201  39.12825664 -123.20146749 both 7 N_stop
+1201  39.12786615 -123.20136424 both 8 unnamed entity(split)
+1201  39.12028498 -123.19935668 both 9 N_stop
+1201  39.12023726 -123.19935680 both 10 N_stop
+1201  39.12013652 -123.19944032 both 11 N_stop
+1201  39.12258143 -123.19998220 both 12 N_stop
+1201  39.12269853 -123.20004578 both 13 N_stop
+1201  39.12274537 -123.20010423 both 14 N_stop
+1201  39.12278872 -123.20022562 both 15 N_stop
+1201  39.12296013 -123.20009652 both 16 N_stop
+1201  39.12285748 -123.20011322 both 17 N_stop
+1201  39.12281912 -123.20015947 both 18 N_stop
+1201  39.12280168 -123.20021792 both 19 N_stop
+1201  39.12801273 -123.20145042 both 20 N_stop
+1201  39.12806173 -123.20151144 both 21 N_stop
+1201  39.12807751 -123.20157461 both 22 N_stop
+1201  39.12823779 -123.20148468 both 23 N_stop
+1201  39.12815765 -123.20150449 both 24 N_stop
+1201  39.12810325 -123.20155534 both 25 N_stop
+1201  39.12807668 -123.20163188 both 26 N_stop
+1201  39.12439775 -123.20152479 both 27 _stop
+1201  39.12428634 -123.20146682 both 28 _stop
+1201  39.12006944 -123.19955549 both 29 _stop
+1201  39.12000895 -123.19985520 both 30 _stop
+1201  39.11999399 -123.19994519 both 31 _stop
+1201  39.11999399 -123.20003089 both 32 _start
+1201  39.12280455 -123.20027907 both 33 _stop
+1201  39.12293474 -123.20066067 both 34 _stop
+1201  39.12300854 -123.20076351 both 35 _stop
+1201  39.12308234 -123.20082265 both 36 _stop
+1201  39.12345137 -123.20102577 both 37 _start
+1201  39.12806933 -123.20168186 both 38 _stop
+1201  39.12799657 -123.20214055 both 39 _start
+1201  39.13189876 -123.20243339 both 40 _stop
+1201  39.12831295 -123.20148201 both 41 unnamed entity(split)
+1201  39.13293937 -123.20272588 both 42 _stop
+1201  39.13328645 -123.20282617 both 43 _stop
+1201  39.13335427 -123.20286474 both 44 _stop
+1201  39.13338818 -123.20292903 both 45 _stop
+1201  39.13339616 -123.20301389 both 46 _stop
+1201  39.13331238 -123.20342532 both 47 _stop
+1201  39.13325054 -123.20353847 both 48 _start
+1201  39.12736331 -123.20232002 both 49 _stop
+1201  39.12723251 -123.20233206 both 50 _stop
+1201  39.12714585 -123.20235241 both 51 _stop
+1201  39.12707111 -123.20240391 both 52 _stop
+1201  39.12662443 -123.20212585 both 53 _stop
+1201  39.12675803 -123.20216890 both 54 _stop
+1201  39.12687627 -123.20223952 both 55 _stop
+1201  39.12699051 -123.20235146 both 56 _stop
+1201  39.12705020 -123.20245596 both 57 _stop
+1201  39.12707134 -123.20254866 both 58 _start
+1201  39.12463528 -123.20159715 both 59 _stop
+1201  39.12469648 -123.20162015 both 60 _stop
+1201  39.12472466 -123.20165116 both 61 _stop
+1201  39.12473924 -123.20167973 both 62 _stop
+1201  39.12475320 -123.20171053 both 63 _stop
+1201  39.12475752 -123.20173298 both 64 _stop
+1201  39.12494381 -123.20168541 both 65 _stop
+1201  39.12488849 -123.20167301 both 66 _stop
+1201  39.12484921 -123.20168231 both 67 _stop
+1201  39.12480432 -123.20171227 both 68 _stop
+1201  39.12477787 -123.20174844 both 69 _stop
+1201  39.12476785 -123.20177527 both 70 _stop
+1201  39.12473859 -123.20198197 both 71 _start
+1201  39.12502893 -123.20170769 both 72 _stop
+1201  39.12505712 -123.20173434 both 73 _stop
+1201  39.12507323 -123.20175891 both 74 _stop
+1201  39.12508799 -123.20177794 both 75 _stop
+1201  39.12510115 -123.20182293 both 76 _stop
+1201  39.12510088 -123.20186446 both 77 _stop
+1201  39.12522169 -123.20175891 both 78 _stop
+1201  39.12517256 -123.20177310 both 79 _stop
+1201  39.12514222 -123.20180840 both 80 _stop
+1201  39.12511430 -123.20184058 both 81 _stop
+1201  39.12510168 -123.20187553 both 82 _stop
+1201  39.12509913 -123.20189664 both 83 _start
+1201  39.12545777 -123.20182076 both 84 _stop
+1201  39.12547173 -123.20183703 both 85 _stop
+1201  39.12548945 -123.20185779 both 86 _stop
+1201  39.12550072 -123.20187925 both 87 _stop
+1201  39.12550556 -123.20192043 both 88 _stop
+1201  39.12562717 -123.20186506 both 89 _stop
+1201  39.12557938 -123.20186679 both 90 _stop
+1201  39.12553428 -123.20190417 both 91 _stop
+1201  39.12551012 -123.20194950 both 92 _stop
+1201  39.12550502 -123.20197338 both 93 _stop
+1201  39.12550690 -123.20196438 both 94 unnamed entity(split)
+1201  39.12550019 -123.20201006 both 95 _start
+1201  39.12589335 -123.20193459 both 96 _stop
+1201  39.12592846 -123.20194700 both 97 _stop
+1201  39.12594850 -123.20196623 both 98 _stop
+1201  39.12595938 -123.20198565 both 99 _stop
+1201  39.12596575 -123.20200468 both 100 _stop
+1201  39.12597119 -123.20203332 both 101 _stop
+1201  39.12609834 -123.20198812 both 102 _stop
+1201  39.12607461 -123.20198405 both 103 _stop
+1201  39.12603054 -123.20199126 both 104 _stop
+1201  39.12599765 -123.20201692 both 105 _stop
+1201  39.12597662 -123.20206249 both 106 _stop
+1201  39.12597167 -123.20208976 both 107 _stop
+1201  39.12589020 -123.20272097 both 108 _stop
+1201  39.12585391 -123.20275857 both 109 _stop
+1201  39.12580249 -123.20278446 both 110 _stop
+1201  39.12574181 -123.20279595 both 111 _stop
+1201  39.12549019 -123.20280599 both 112 _stop
+1201  39.12543842 -123.20281675 both 113 _stop
+1201  39.12539834 -123.20285981 both 114 _stop
+1201  39.12534545 -123.20289425 both 115 _stop
+1201  39.12529925 -123.20290861 both 116 _stop
+1201  39.12528032 -123.20290143 both 117 _stop
+1201  39.12524358 -123.20286053 both 118 _stop
+1201  39.12522020 -123.20280599 both 119 _stop
+1201  39.12521853 -123.20273638 both 120 _start
+1201  39.12590084 -123.20264261 both 121 _stop
+1201  39.12596595 -123.20213533 both 122 unnamed entity(split)
+1201  39.12589694 -123.20267756 both 123 unnamed entity(split)
+1201  39.12590687 -123.20276101 both 124 _stop
+1201  39.12593888 -123.20278194 both 125 _stop
+1201  39.12606274 -123.20281543 both 126 _stop
+1201  39.12619263 -123.20283158 both 127 _stop
+1201  39.12624134 -123.20284951 both 128 _stop
+1201  39.12628449 -123.20288958 both 129 _stop
+1201  39.12630351 -123.20293084 both 130 _stop
+1201  39.12630768 -123.20296672 both 131 _stop
+1201  39.12633227 -123.20379196 both 132 _stop
+1201  39.12632160 -123.20382784 both 133 _stop
+1201  39.12629330 -123.20386014 both 134 _stop
+1201  39.12626732 -123.20387329 both 135 _stop
+1201  39.12615088 -123.20387688 both 136 _start
+1201  39.12596125 -123.20215223 both 137 _stop
+1201  39.12595197 -123.20216359 both 138 _stop
+1201  39.12591718 -123.20216838 both 139 _stop
+1201  39.12585269 -123.20215881 both 140 _stop
+1201  39.12579424 -123.20217376 both 141 _stop
+1201  39.12572930 -123.20220486 both 142 _stop
+1201  39.12568522 -123.20220665 both 143 _stop
+1201  39.12566064 -123.20220007 both 144 _start
+1201  39.13082847 -123.20324727 both 145 _stop
+1201  39.13093140 -123.20329563 both 146 _stop
+1201  39.13099296 -123.20333035 both 147 _stop
+1201  39.13101028 -123.20337499 both 148 _stop
+1201  39.13119690 -123.20334647 both 149 _stop
+1201  39.13112956 -123.20334647 both 150 _stop
+1201  39.13106992 -123.20335267 both 151 _stop
+1201  39.13102855 -123.20338739 both 152 _stop
+1201  39.13100835 -123.20343452 both 153 _stop
+1201  39.13098142 -123.20360937 both 154 _start
+1201  39.12930698 -123.20314093 both 155 _stop
+1201  39.12925247 -123.20320810 both 156 _stop
+1201  39.12910176 -123.20330007 both 157 _stop
+1201  39.12895186 -123.20334864 both 158 _stop
+1201  39.12890216 -123.20335071 both 159 _start
+1201  39.12934386 -123.20318640 both 160 _stop
+1201  39.12938714 -123.20328664 both 161 _stop
+1201  39.12950258 -123.20336724 both 162 _stop
+1201  39.12961801 -123.20345301 both 163 _stop
+1201  39.12966611 -123.20345611 both 164 _start
+1201  39.12907050 -123.20277718 both 165 _stop
+1201  39.12920036 -123.20284228 both 166 _stop
+1201  39.12930698 -123.20293425 both 167 _stop
+1201  39.12961481 -123.20291772 both 168 _stop
+1201  39.12950899 -123.20291049 both 169 _stop
+1201  39.12939115 -123.20294459 both 170 _stop
+1201  39.12933664 -123.20303553 both 171 _stop
+1201  39.12933905 -123.20311096 both 172 _start
+1201  39.12815878 -123.20253424 both 173 _stop
+1201  39.12799376 -123.20255424 both 174 _stop
+1201  39.12789411 -123.20260232 both 175 _stop
+1201  39.12783788 -123.20268556 both 176 _stop
+1201  39.12782063 -123.20274800 both 177 _stop
+1201  39.12782063 -123.20279679 both 178 _stop
+1201  39.12783343 -123.20282334 both 179 _stop
+1201  39.12738561 -123.20232595 both 180 _stop
+1201  39.12749527 -123.20239043 both 181 _stop
+1201  39.12762417 -123.20259751 both 182 _stop
+1201  39.12771460 -123.20273888 both 183 _stop
+1201  39.12785985 -123.20285420 both 184 _start
+1201  39.13323862 -123.20356195 both 185 N_stop
+1201  39.13319887 -123.20361770 both 186 N_stop
+1201  39.13308522 -123.20371649 both 187 N_stop
+1201  39.13299222 -123.20376200 both 188 N_stop
+1201  39.13288632 -123.20377754 both 189 N_stop
+1201  39.13281829 -123.20376755 both 190 N_stop
+1201  39.12807877 -123.20249967 both 191 N_stop
+1201  39.12803274 -123.20245897 both 192 N_stop
+1201  39.12799547 -123.20239390 both 193 N_stop
+1201  39.12797864 -123.20232219 both 194 N_stop
+1201  39.12797576 -123.20225377 both 195 N_stop
+1201  39.12795362 -123.20231309 both 196 N_stop
+1201  39.12791451 -123.20236394 both 197 N_stop
+1201  39.12786295 -123.20240543 both 198 N_stop
+1201  39.12777962 -123.20243405 both 199 N_stop
+1201  39.12433890 -123.20150662 both 200 _stop
+1201  39.12309921 -123.20112568 both 201 _stop
+1201  39.12056357 -123.20032753 both 202 _stop
+1201  39.12019180 -123.20020877 both 203 _stop
+1201  39.12009226 -123.20017763 both 204 _stop
+1201  39.12006616 -123.20016517 both 205 _stop
+1201  39.12004039 -123.20014690 both 206 _stop
+1201  39.12001333 -123.20010787 both 207 _stop
+1202 1 0 twoway runway 15/33
+1204 departure 15,33
+1204 arrival 15,33
+1204 ils 15,33
+1202 2 3 twoway runway 15/33
+1204 departure 15,33
+1204 arrival 15,33
+1204 ils 15,33
+1202 3 4 twoway runway 15/33
+1204 departure 15,33
+1204 arrival 15,33
+1204 ils 15,33
+1202 4 5 twoway runway 15/33
+1204 departure 15,33
+1204 arrival 15,33
+1204 ils 15,33
+1202 5 6 twoway runway 15/33
+1204 departure 15,33
+1204 arrival 15,33
+1204 ils 15,33
+1202 6 1 twoway runway 15/33
+1204 departure 15,33
+1204 arrival 15,33
+1204 ils 15,33
+1202 40 41 twoway runway 15/33
+1204 departure 15,33
+1204 arrival 15,33
+1204 ils 15,33
+1202 41 7 twoway runway 15/33
+1204 departure 15,33
+1204 arrival 15,33
+1204 ils 15,33
+1202 9 0 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 10 9 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 11 10 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 29 11 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 12 6 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 13 12 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 14 13 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 15 14 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 33 15 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 16 4 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 17 16 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 18 17 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 19 18 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 33 19 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 20 8 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 21 20 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 22 21 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 26 22 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 23 41 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 24 23 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 25 24 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 26 25 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 38 26 twoway taxiway_B N
+1204 departure 15,33
+1204 arrival 15,33
+1202 28 27 twoway taxiway_B 
+1202 37 28 twoway taxiway_B 
+1202 30 29 twoway taxiway_B 
+1204 departure 15,33
+1204 arrival 15,33
+1202 31 30 twoway taxiway_B 
+1204 departure 33
+1204 arrival 15
+1202 32 31 twoway taxiway_B 
+1204 departure 33
+1204 arrival 15
+1202 34 33 twoway taxiway_B 
+1204 departure 15,33
+1204 arrival 15,33
+1202 35 34 twoway taxiway_B 
+1204 departure 33
+1204 arrival 15
+1202 36 35 twoway taxiway_B 
+1204 departure 33
+1204 arrival 15
+1202 37 36 twoway taxiway_B 
+1204 departure 33
+1204 arrival 15
+1202 39 38 twoway taxiway_B 
+1204 departure 15,33
+1204 arrival 15,33
+1202 42 40 twoway taxiway_B 
+1204 departure 15,33
+1204 arrival 15,33
+1202 43 42 twoway taxiway_B 
+1204 departure 15
+1204 arrival 33
+1202 44 43 twoway taxiway_B 
+1204 departure 15
+1204 arrival 33
+1202 45 44 twoway taxiway_B 
+1204 departure 15
+1204 arrival 33
+1202 46 45 twoway taxiway_B 
+1204 departure 15
+1204 arrival 33
+1202 47 46 twoway taxiway_B 
+1204 departure 15
+1204 arrival 33
+1202 48 47 twoway taxiway_B 
+1204 departure 15
+1204 arrival 33
+1202 50 49 twoway taxiway_C 
+1202 51 50 twoway taxiway_C 
+1202 52 51 twoway taxiway_C 
+1202 57 52 twoway taxiway_C 
+1202 54 53 twoway taxiway_C 
+1202 55 54 twoway taxiway_C 
+1202 56 55 twoway taxiway_C 
+1202 57 56 twoway taxiway_C 
+1202 58 57 twoway taxiway_C 
+1202 60 59 twoway taxiway_B 
+1202 61 60 twoway taxiway_B 
+1202 62 61 twoway taxiway_B 
+1202 63 62 twoway taxiway_B 
+1202 64 63 twoway taxiway_B 
+1202 70 64 twoway taxiway_B 
+1202 66 65 twoway taxiway_B 
+1202 67 66 twoway taxiway_B 
+1202 68 67 twoway taxiway_B 
+1202 69 68 twoway taxiway_B 
+1202 70 69 twoway taxiway_B 
+1202 71 70 twoway taxiway_B 
+1202 73 72 twoway taxiway_A 
+1202 74 73 twoway taxiway_A 
+1202 75 74 twoway taxiway_A 
+1202 76 75 twoway taxiway_A 
+1202 77 76 twoway taxiway_A 
+1202 83 77 twoway taxiway_A 
+1202 79 78 twoway taxiway_A 
+1202 80 79 twoway taxiway_A 
+1202 81 80 twoway taxiway_A 
+1202 82 81 twoway taxiway_A 
+1202 83 82 twoway taxiway_A 
+1202 85 84 twoway taxiway_A 
+1202 86 85 twoway taxiway_A 
+1202 87 86 twoway taxiway_A 
+1202 88 87 twoway taxiway_A 
+1202 94 88 twoway taxiway_A 
+1202 90 89 twoway taxiway_A 
+1202 91 90 twoway taxiway_A 
+1202 92 91 twoway taxiway_A 
+1202 93 94 twoway taxiway_A 
+1202 94 92 twoway taxiway_A 
+1202 95 93 twoway taxiway_A 
+1202 97 96 twoway taxiway_A 
+1202 98 97 twoway taxiway_A 
+1202 99 98 twoway taxiway_A 
+1202 100 99 twoway taxiway_A 
+1202 101 100 twoway taxiway_A 
+1202 107 101 twoway taxiway_A 
+1202 103 102 twoway taxiway_A 
+1202 104 103 twoway taxiway_A 
+1202 105 104 twoway taxiway_A 
+1202 106 105 twoway taxiway_A 
+1202 107 106 twoway taxiway_A 
+1202 121 122 twoway taxiway_A 
+1202 122 107 twoway taxiway_A 
+1202 108 123 twoway taxiway_A 
+1202 109 108 twoway taxiway_A 
+1202 110 109 twoway taxiway_A 
+1202 111 110 twoway taxiway_A 
+1202 112 111 twoway taxiway_A 
+1202 113 112 twoway taxiway_A 
+1202 114 113 twoway taxiway_A 
+1202 115 114 twoway taxiway_A 
+1202 116 115 twoway taxiway_A 
+1202 117 116 twoway taxiway_A 
+1202 118 117 twoway taxiway_A 
+1202 119 118 twoway taxiway_A 
+1202 120 119 twoway taxiway_A 
+1202 108 123 twoway taxiway_A 
+1202 123 121 twoway taxiway_A 
+1202 124 108 twoway taxiway_A 
+1202 125 124 twoway taxiway_A 
+1202 126 125 twoway taxiway_A 
+1202 127 126 twoway taxiway_A 
+1202 128 127 twoway taxiway_A 
+1202 129 128 twoway taxiway_A 
+1202 130 129 twoway taxiway_A 
+1202 131 130 twoway taxiway_A 
+1202 132 131 twoway taxiway_A 
+1202 133 132 twoway taxiway_A 
+1202 134 133 twoway taxiway_A 
+1202 135 134 twoway taxiway_A 
+1202 136 135 twoway taxiway_A 
+1202 137 122 twoway taxiway_A 
+1202 138 137 twoway taxiway_A 
+1202 139 138 twoway taxiway_A 
+1202 140 139 twoway taxiway_A 
+1202 141 140 twoway taxiway_A 
+1202 142 141 twoway taxiway_A 
+1202 143 142 twoway taxiway_A 
+1202 144 143 twoway taxiway_A 
+1202 146 145 twoway taxiway_B 
+1202 147 146 twoway taxiway_B 
+1202 148 147 twoway taxiway_B 
+1202 153 148 twoway taxiway_B 
+1202 150 149 twoway taxiway_B 
+1202 151 150 twoway taxiway_B 
+1202 152 151 twoway taxiway_B 
+1202 153 152 twoway taxiway_B 
+1202 154 153 twoway taxiway_B 
+1202 155 171 twoway taxiway_C 
+1202 156 155 twoway taxiway_C 
+1202 157 156 twoway taxiway_C 
+1202 158 157 twoway taxiway_C 
+1202 159 158 twoway taxiway_C 
+1202 160 172 twoway taxiway_C 
+1202 161 160 twoway taxiway_C 
+1202 162 161 twoway taxiway_C 
+1202 163 162 twoway taxiway_C 
+1202 164 163 twoway taxiway_C 
+1202 166 165 twoway taxiway_C 
+1202 167 166 twoway taxiway_C 
+1202 171 167 twoway taxiway_C 
+1202 169 168 twoway taxiway_C 
+1202 170 169 twoway taxiway_C 
+1202 171 170 twoway taxiway_C 
+1202 172 171 twoway taxiway_C 
+1202 174 173 twoway taxiway_C 
+1202 175 174 twoway taxiway_C 
+1202 176 175 twoway taxiway_C 
+1202 177 176 twoway taxiway_C 
+1202 178 177 twoway taxiway_C 
+1202 179 178 twoway taxiway_C 
+1202 184 179 twoway taxiway_C 
+1202 181 180 twoway taxiway_C 
+1202 182 181 twoway taxiway_C 
+1202 183 182 twoway taxiway_C 
+1202 184 183 twoway taxiway_C 
+1202 185 48 twoway taxiway_B N
+1202 186 185 twoway taxiway_B N
+1202 187 186 twoway taxiway_B N
+1202 188 187 twoway taxiway_B N
+1202 189 188 twoway taxiway_B N
+1202 190 189 twoway taxiway_B N
+1202 149 190 twoway taxiway_B N
+1202 145 149 twoway taxiway_B N
+1202 168 145 twoway taxiway_B N
+1202 165 168 twoway taxiway_B N
+1202 173 165 twoway taxiway_B N
+1202 173 199 twoway taxiway_B N
+1202 191 173 twoway taxiway_B N
+1202 192 191 twoway taxiway_B N
+1202 193 192 twoway taxiway_B N
+1202 194 193 twoway taxiway_B N
+1202 195 194 twoway taxiway_B N
+1202 195 39 twoway taxiway_B N
+1202 196 195 twoway taxiway_B N
+1202 197 196 twoway taxiway_B N
+1202 198 197 twoway taxiway_B N
+1202 199 198 twoway taxiway_B N
+1202 180 199 twoway taxiway_B N
+1202 49 180 twoway taxiway_B N
+1202 53 49 twoway taxiway_B N
+1202 102 53 twoway taxiway_B N
+1202 96 102 twoway taxiway_B N
+1202 89 96 twoway taxiway_B N
+1202 84 89 twoway taxiway_B N
+1202 78 84 twoway taxiway_B N
+1202 72 78 twoway taxiway_B N
+1202 65 72 twoway taxiway_B N
+1202 59 65 twoway taxiway_B N
+1202 27 59 twoway taxiway_B 
+1202 200 27 twoway taxiway_B 
+1202 201 200 twoway taxiway_B 
+1202 202 201 twoway taxiway_B 
+1202 203 202 twoway taxiway_B 
+1202 204 203 twoway taxiway_B 
+1202 205 204 twoway taxiway_B 
+1202 206 205 twoway taxiway_B 
+1202 207 206 twoway taxiway_B 
+1202 32 207 twoway taxiway_B 
+1202 7 8 twoway runway 15/33
+1204 departure 15,33
+1204 arrival 15,33
+1204 ils 15,33
+1202 8 2 twoway runway 15/33
+1204 departure 15,33
+1204 arrival 15,33
+1204 ils 15,33
 99
